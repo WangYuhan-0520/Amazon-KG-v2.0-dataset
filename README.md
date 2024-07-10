@@ -19,7 +19,7 @@ To facilitate further research work, we processed the data into the Atomic Files
 | *.link* | Item-entity linkage data | item_id, entity_id|
 
 ## Publication
-We publish details of how to retrieve knowledge graphs based on recommendation data in the paper entitled **Amazon-KG: Knowledge Graph Enhanced Cross-Domain Recommendation Dataset**. The paper has been accepted for presentation at the [SIGIR 2024 conference](https://sigir-2024.github.io/program_papers.html). Thank you for your support and citation!
+We publish details of how to retrieve knowledge graphs based on recommendation data in the paper entitled "**Amazon-KG: Knowledge Graph Enhanced Cross-Domain Recommendation Dataset**". The paper has been accepted for presentation at the [SIGIR 2024 conference](https://sigir-2024.github.io/program_papers.html). Thank you for your support and citation!
 
 ## Licence
 By using the datasets, you must agree to be bound by the terms of the following license.
